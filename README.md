@@ -1,20 +1,25 @@
-# Gerador de QRCode - Generate QRCode
+# Pokedex 
 
-Esse projeto para realizar a criação de links de QRCode utilizando ReactJs.
+Esse projeto realiza o consumo da api https://pokeapi.co, tratando os dados em json e montando apresentação no frontend dos pokemons na pokedex.
 
-This project to creation of QRCode links using ReactJs.
+This project consumes a API Json https://pokeapi.co present on screen the pokemons in the pokedex.
 
-Url: https://qrcode-generate-gregyhenry.vercel.app/
+Url: https://gregyhenry.github.io/pokedex/
 
 ## Projeto / Project:
 
-<img width="337" alt="image" src="https://user-images.githubusercontent.com/92655806/185769432-b9aacc91-7b43-4d75-a97a-fe6cce2bbd18.png">
+<img width="610" alt="image" src="https://user-images.githubusercontent.com/92655806/186044268-68254c54-0796-401f-a356-e804436f9fc4.png">
+
+## Video:
+
+https://user-images.githubusercontent.com/92655806/186044077-cafc5504-d3f7-4628-bd13-ea92a60d5792.mp4
 
 ## Tecnologias utilizadas
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Greg-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Greg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Greg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Greg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 ## Desenvolvedor
